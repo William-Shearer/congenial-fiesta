@@ -1,0 +1,12 @@
+.centered-div {
+	text-align: center;
+	padding: 25px;
+	margin: 25px;
+	background-color: #ADFFE6;
+	border: 2px solid blue;
+	border-radius: 15px;
+}
+.scale-image {
+	width: 80vw;
+	border-radius: 1vw;
+}
